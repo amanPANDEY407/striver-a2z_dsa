@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/amanPANDEY407/striver-a2z_dsa/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [2150-find-all-lonely-numbers-in-the-array](https://github.com/amanPANDEY407/striver-a2z_dsa/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -25,4 +26,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/amanPANDEY407/striver-a2z_dsa/tree/master/1838-frequency-of-the-most-frequent-element) |
+## Hash Table
+|  |
+| ------- |
+| [2150-find-all-lonely-numbers-in-the-array](https://github.com/amanPANDEY407/striver-a2z_dsa/tree/master/2150-find-all-lonely-numbers-in-the-array) |
+## Counting
+|  |
+| ------- |
+| [2150-find-all-lonely-numbers-in-the-array](https://github.com/amanPANDEY407/striver-a2z_dsa/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 <!---LeetCode Topics End-->
