@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/amanPANDEY407/striver-a2z_dsa/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0075-sort-colors](https://github.com/amanPANDEY407/striver-a2z_dsa/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/amanPANDEY407/striver-a2z_dsa/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/amanPANDEY407/striver-a2z_dsa/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/amanPANDEY407/striver-a2z_dsa/tree/master/0268-missing-number) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/amanPANDEY407/striver-a2z_dsa/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/amanPANDEY407/striver-a2z_dsa/tree/master/0088-merge-sorted-array) |
 | [0268-missing-number](https://github.com/amanPANDEY407/striver-a2z_dsa/tree/master/0268-missing-number) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/amanPANDEY407/striver-a2z_dsa/tree/master/1838-frequency-of-the-most-frequent-element) |
@@ -49,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/amanPANDEY407/striver-a2z_dsa/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0075-sort-colors](https://github.com/amanPANDEY407/striver-a2z_dsa/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/amanPANDEY407/striver-a2z_dsa/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/amanPANDEY407/striver-a2z_dsa/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/amanPANDEY407/striver-a2z_dsa/tree/master/0283-move-zeroes) |
