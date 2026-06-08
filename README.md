@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/amanPANDEY407/striver-a2z_dsa/tree/master/0118-pascals-triangle) |
 | [0136-single-number](https://github.com/amanPANDEY407/striver-a2z_dsa/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/amanPANDEY407/striver-a2z_dsa/tree/master/0189-rotate-array) |
+| [0229-majority-element-ii](https://github.com/amanPANDEY407/striver-a2z_dsa/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/amanPANDEY407/striver-a2z_dsa/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/amanPANDEY407/striver-a2z_dsa/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/amanPANDEY407/striver-a2z_dsa/tree/master/0485-max-consecutive-ones) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/amanPANDEY407/striver-a2z_dsa/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/amanPANDEY407/striver-a2z_dsa/tree/master/0088-merge-sorted-array) |
+| [0229-majority-element-ii](https://github.com/amanPANDEY407/striver-a2z_dsa/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/amanPANDEY407/striver-a2z_dsa/tree/master/0268-missing-number) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/amanPANDEY407/striver-a2z_dsa/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Prefix Sum
@@ -46,11 +48,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/amanPANDEY407/striver-a2z_dsa/tree/master/0001-two-sum) |
+| [0229-majority-element-ii](https://github.com/amanPANDEY407/striver-a2z_dsa/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/amanPANDEY407/striver-a2z_dsa/tree/master/0268-missing-number) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/amanPANDEY407/striver-a2z_dsa/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 ## Counting
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/amanPANDEY407/striver-a2z_dsa/tree/master/0229-majority-element-ii) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/amanPANDEY407/striver-a2z_dsa/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 ## Two Pointers
 |  |
