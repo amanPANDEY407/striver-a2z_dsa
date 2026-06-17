@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/amanPANDEY407/striver-a2z_dsa/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/amanPANDEY407/striver-a2z_dsa/tree/master/0118-pascals-triangle) |
 | [0136-single-number](https://github.com/amanPANDEY407/striver-a2z_dsa/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/amanPANDEY407/striver-a2z_dsa/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/amanPANDEY407/striver-a2z_dsa/tree/master/0189-rotate-array) |
 | [0229-majority-element-ii](https://github.com/amanPANDEY407/striver-a2z_dsa/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/amanPANDEY407/striver-a2z_dsa/tree/master/0268-missing-number) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/amanPANDEY407/striver-a2z_dsa/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/amanPANDEY407/striver-a2z_dsa/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/amanPANDEY407/striver-a2z_dsa/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/amanPANDEY407/striver-a2z_dsa/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/amanPANDEY407/striver-a2z_dsa/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/amanPANDEY407/striver-a2z_dsa/tree/master/0268-missing-number) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/amanPANDEY407/striver-a2z_dsa/tree/master/1838-frequency-of-the-most-frequent-element) |
@@ -53,12 +55,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/amanPANDEY407/striver-a2z_dsa/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/amanPANDEY407/striver-a2z_dsa/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/amanPANDEY407/striver-a2z_dsa/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/amanPANDEY407/striver-a2z_dsa/tree/master/0268-missing-number) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/amanPANDEY407/striver-a2z_dsa/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/amanPANDEY407/striver-a2z_dsa/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/amanPANDEY407/striver-a2z_dsa/tree/master/0229-majority-element-ii) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/amanPANDEY407/striver-a2z_dsa/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 ## Two Pointers
@@ -90,4 +94,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/amanPANDEY407/striver-a2z_dsa/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/amanPANDEY407/striver-a2z_dsa/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
