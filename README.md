@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/amanPANDEY407/striver-a2z_dsa/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/amanPANDEY407/striver-a2z_dsa/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/amanPANDEY407/striver-a2z_dsa/tree/master/0540-single-element-in-a-sorted-array) |
+| [0560-subarray-sum-equals-k](https://github.com/amanPANDEY407/striver-a2z_dsa/tree/master/0560-subarray-sum-equals-k) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/amanPANDEY407/striver-a2z_dsa/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/amanPANDEY407/striver-a2z_dsa/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/amanPANDEY407/striver-a2z_dsa/tree/master/2150-find-all-lonely-numbers-in-the-array) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/amanPANDEY407/striver-a2z_dsa/tree/master/0560-subarray-sum-equals-k) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/amanPANDEY407/striver-a2z_dsa/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Hash Table
 |  |
@@ -67,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/amanPANDEY407/striver-a2z_dsa/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/amanPANDEY407/striver-a2z_dsa/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/amanPANDEY407/striver-a2z_dsa/tree/master/0268-missing-number) |
+| [0560-subarray-sum-equals-k](https://github.com/amanPANDEY407/striver-a2z_dsa/tree/master/0560-subarray-sum-equals-k) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/amanPANDEY407/striver-a2z_dsa/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 ## Counting
 |  |
