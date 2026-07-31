@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/amanPANDEY407/striver-a2z_dsa/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [1903-largest-odd-number-in-string](https://github.com/amanPANDEY407/striver-a2z_dsa/tree/master/1903-largest-odd-number-in-string) |
 ## Sliding Window
 |  |
 | ------- |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/amanPANDEY407/striver-a2z_dsa/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/amanPANDEY407/striver-a2z_dsa/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/amanPANDEY407/striver-a2z_dsa/tree/master/0268-missing-number) |
+| [1903-largest-odd-number-in-string](https://github.com/amanPANDEY407/striver-a2z_dsa/tree/master/1903-largest-odd-number-in-string) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -128,4 +130,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/amanPANDEY407/striver-a2z_dsa/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/amanPANDEY407/striver-a2z_dsa/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/amanPANDEY407/striver-a2z_dsa/tree/master/0073-set-matrix-zeroes) |
+## String
+|  |
+| ------- |
+| [1903-largest-odd-number-in-string](https://github.com/amanPANDEY407/striver-a2z_dsa/tree/master/1903-largest-odd-number-in-string) |
 <!---LeetCode Topics End-->
