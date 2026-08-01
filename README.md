@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/amanPANDEY407/striver-a2z_dsa/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/amanPANDEY407/striver-a2z_dsa/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/amanPANDEY407/striver-a2z_dsa/tree/master/0088-merge-sorted-array) |
+| [0151-reverse-words-in-a-string](https://github.com/amanPANDEY407/striver-a2z_dsa/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/amanPANDEY407/striver-a2z_dsa/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/amanPANDEY407/striver-a2z_dsa/tree/master/0283-move-zeroes) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/amanPANDEY407/striver-a2z_dsa/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -133,5 +134,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0151-reverse-words-in-a-string](https://github.com/amanPANDEY407/striver-a2z_dsa/tree/master/0151-reverse-words-in-a-string) |
 | [1903-largest-odd-number-in-string](https://github.com/amanPANDEY407/striver-a2z_dsa/tree/master/1903-largest-odd-number-in-string) |
 <!---LeetCode Topics End-->
