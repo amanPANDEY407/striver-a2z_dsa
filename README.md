@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/amanPANDEY407/striver-a2z_dsa/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/amanPANDEY407/striver-a2z_dsa/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/amanPANDEY407/striver-a2z_dsa/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/amanPANDEY407/striver-a2z_dsa/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/amanPANDEY407/striver-a2z_dsa/tree/master/0268-missing-number) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/amanPANDEY407/striver-a2z_dsa/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Prefix Sum
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/amanPANDEY407/striver-a2z_dsa/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/amanPANDEY407/striver-a2z_dsa/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/amanPANDEY407/striver-a2z_dsa/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/amanPANDEY407/striver-a2z_dsa/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/amanPANDEY407/striver-a2z_dsa/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/amanPANDEY407/striver-a2z_dsa/tree/master/0560-subarray-sum-equals-k) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/amanPANDEY407/striver-a2z_dsa/tree/master/2150-find-all-lonely-numbers-in-the-array) |
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/amanPANDEY407/striver-a2z_dsa/tree/master/0014-longest-common-prefix) |
 | [0151-reverse-words-in-a-string](https://github.com/amanPANDEY407/striver-a2z_dsa/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/amanPANDEY407/striver-a2z_dsa/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/amanPANDEY407/striver-a2z_dsa/tree/master/0242-valid-anagram) |
 | [1903-largest-odd-number-in-string](https://github.com/amanPANDEY407/striver-a2z_dsa/tree/master/1903-largest-odd-number-in-string) |
 ## Trie
 |  |
