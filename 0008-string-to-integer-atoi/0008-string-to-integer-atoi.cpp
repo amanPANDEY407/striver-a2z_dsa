@@ -28,7 +28,7 @@ public:
         }
         while(i < l){
             int digit = s[i] - '0';
-            if(isdigit(s[i])){
+            if((int)s[i] <= 57 && (int)s[i] >= 48){
                 if (ans > INT_MAX / 10 || (ans == INT_MAX / 10 && digit > 7)) {
               if (flag) {
                 return INT_MAX; // Round to 2^31 - 1
