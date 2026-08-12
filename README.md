@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/amanPANDEY407/striver-a2z_dsa/tree/master/0268-missing-number) |
 | [0451-sort-characters-by-frequency](https://github.com/amanPANDEY407/striver-a2z_dsa/tree/master/0451-sort-characters-by-frequency) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/amanPANDEY407/striver-a2z_dsa/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [2165-smallest-value-of-the-rearranged-number](https://github.com/amanPANDEY407/striver-a2z_dsa/tree/master/2165-smallest-value-of-the-rearranged-number) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/amanPANDEY407/striver-a2z_dsa/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/amanPANDEY407/striver-a2z_dsa/tree/master/0268-missing-number) |
 | [1903-largest-odd-number-in-string](https://github.com/amanPANDEY407/striver-a2z_dsa/tree/master/1903-largest-odd-number-in-string) |
+| [2165-smallest-value-of-the-rearranged-number](https://github.com/amanPANDEY407/striver-a2z_dsa/tree/master/2165-smallest-value-of-the-rearranged-number) |
 ## Bit Manipulation
 |  |
 | ------- |
