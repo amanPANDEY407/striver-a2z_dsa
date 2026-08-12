@@ -10,27 +10,25 @@
  */
 class Solution {
 public:
+        // Recursive function to reverse the linked list
     ListNode* reverseList(ListNode* head) {
-        if(head == nullptr){
-            return nullptr;
-        }
-        ListNode* curr = head;
-        ListNode* temp = head->next;
-        curr->next = nullptr;
-        ListNode* prev = nullptr;
-        bool flag = true;
-        while(flag){
-            if(temp != nullptr){
-                prev = curr;
-                curr = temp;
-                temp = temp->next;
-                curr->next = prev;
-            }
-            else{
-                curr->next = prev;
-                flag = false;
-            }
-        }
-        return curr;
-    }
+        // Base case: if list is empty or has one node
+        if (head == NULL || head->next == NULL)
+            return head;
+
+        // Recursively reverse the rest of the list
+        ListNode* newHead = reverseList(head->next);
+
+        // Store the next node
+        ListNode* front = head->next;
+
+        // Make the next node point back to current
+        front->next = head;
+
+        // Break the current node's forward link
+        head->next = NULL;
+
+        // Return the new head of the reversed list
+        return newHead;  
+         }
 };
