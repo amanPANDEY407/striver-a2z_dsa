@@ -11,12 +11,10 @@ public:
             while(!st.empty() && elem >= st.top()){
                 st.pop();
             }
-            if(st.empty()){
-                st.push(elem);
-            }else{
-                ans[i%n] = st.top();
-                st.push(elem); 
+            if (!st.empty()) {
+                ans[i % n] = st.top();
             }
+            st.push(elem);
         }
         return ans;
     }
