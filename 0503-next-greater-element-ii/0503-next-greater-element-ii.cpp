@@ -7,16 +7,16 @@ public:
         vector<int> ans(n, -1);
         stack<int> st;
         for (int i = 2 * n - 1; i >= 0; --i) {
-            int curr = nums[i % n];
-            while (!st.empty() && st.top() <= curr) {
+            int elem = nums[i%n];
+            while(!st.empty() && elem >= st.top()){
                 st.pop();
             }
-            if (i < n) {
-                if (!st.empty()) {
-                    ans[i] = st.top();
-                }
+            if(st.empty()){
+                st.push(elem);
+            }else{
+                ans[i%n] = st.top();
+                st.push(elem); 
             }
-            st.push(curr);
         }
         return ans;
     }
