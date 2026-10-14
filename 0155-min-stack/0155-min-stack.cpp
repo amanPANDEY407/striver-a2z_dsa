@@ -2,8 +2,9 @@ class MinStack {
 public:
     stack<pair<int,int>> st;
     int min;
-    MinStack() {
-        
+    MinStack(){
+        std::ios_base::sync_with_stdio(false);
+        std::cin.tie(NULL);
     }
     
     void push(int value) {
