@@ -13,9 +13,6 @@ public:
             if(cnt <= k){
                 ans += r - l + 1;
             }
-            if(nums[r] % 2 == 0){
-                ans--;
-            }
             r++;
         }
         return ans;
