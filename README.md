@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/amanPANDEY407/striver-a2z_dsa/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/amanPANDEY407/striver-a2z_dsa/tree/master/0560-subarray-sum-equals-k) |
 | [0735-asteroid-collision](https://github.com/amanPANDEY407/striver-a2z_dsa/tree/master/0735-asteroid-collision) |
+| [0860-lemonade-change](https://github.com/amanPANDEY407/striver-a2z_dsa/tree/master/0860-lemonade-change) |
 | [0904-fruit-into-baskets](https://github.com/amanPANDEY407/striver-a2z_dsa/tree/master/0904-fruit-into-baskets) |
 | [0907-sum-of-subarray-minimums](https://github.com/amanPANDEY407/striver-a2z_dsa/tree/master/0907-sum-of-subarray-minimums) |
 | [0930-binary-subarrays-with-sum](https://github.com/amanPANDEY407/striver-a2z_dsa/tree/master/0930-binary-subarrays-with-sum) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0402-remove-k-digits](https://github.com/amanPANDEY407/striver-a2z_dsa/tree/master/0402-remove-k-digits) |
 | [0455-assign-cookies](https://github.com/amanPANDEY407/striver-a2z_dsa/tree/master/0455-assign-cookies) |
+| [0860-lemonade-change](https://github.com/amanPANDEY407/striver-a2z_dsa/tree/master/0860-lemonade-change) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/amanPANDEY407/striver-a2z_dsa/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1903-largest-odd-number-in-string](https://github.com/amanPANDEY407/striver-a2z_dsa/tree/master/1903-largest-odd-number-in-string) |
 ## Sliding Window
