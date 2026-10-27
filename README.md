@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/amanPANDEY407/striver-a2z_dsa/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/amanPANDEY407/striver-a2z_dsa/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/amanPANDEY407/striver-a2z_dsa/tree/master/0283-move-zeroes) |
+| [0455-assign-cookies](https://github.com/amanPANDEY407/striver-a2z_dsa/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/amanPANDEY407/striver-a2z_dsa/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/amanPANDEY407/striver-a2z_dsa/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/amanPANDEY407/striver-a2z_dsa/tree/master/0503-next-greater-element-ii) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/amanPANDEY407/striver-a2z_dsa/tree/master/0402-remove-k-digits) |
+| [0455-assign-cookies](https://github.com/amanPANDEY407/striver-a2z_dsa/tree/master/0455-assign-cookies) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/amanPANDEY407/striver-a2z_dsa/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1903-largest-odd-number-in-string](https://github.com/amanPANDEY407/striver-a2z_dsa/tree/master/1903-largest-odd-number-in-string) |
 ## Sliding Window
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/amanPANDEY407/striver-a2z_dsa/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/amanPANDEY407/striver-a2z_dsa/tree/master/0268-missing-number) |
 | [0451-sort-characters-by-frequency](https://github.com/amanPANDEY407/striver-a2z_dsa/tree/master/0451-sort-characters-by-frequency) |
+| [0455-assign-cookies](https://github.com/amanPANDEY407/striver-a2z_dsa/tree/master/0455-assign-cookies) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/amanPANDEY407/striver-a2z_dsa/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2165-smallest-value-of-the-rearranged-number](https://github.com/amanPANDEY407/striver-a2z_dsa/tree/master/2165-smallest-value-of-the-rearranged-number) |
 ## Prefix Sum
@@ -156,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/amanPANDEY407/striver-a2z_dsa/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/amanPANDEY407/striver-a2z_dsa/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/amanPANDEY407/striver-a2z_dsa/tree/master/0283-move-zeroes) |
+| [0455-assign-cookies](https://github.com/amanPANDEY407/striver-a2z_dsa/tree/master/0455-assign-cookies) |
 | [0876-middle-of-the-linked-list](https://github.com/amanPANDEY407/striver-a2z_dsa/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/amanPANDEY407/striver-a2z_dsa/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/amanPANDEY407/striver-a2z_dsa/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -350,4 +354,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0146-lru-cache](https://github.com/amanPANDEY407/striver-a2z_dsa/tree/master/0146-lru-cache) |
 | [0460-lfu-cache](https://github.com/amanPANDEY407/striver-a2z_dsa/tree/master/0460-lfu-cache) |
+## Quicksort
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/amanPANDEY407/striver-a2z_dsa/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
