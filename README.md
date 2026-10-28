@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/amanPANDEY407/striver-a2z_dsa/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/amanPANDEY407/striver-a2z_dsa/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/amanPANDEY407/striver-a2z_dsa/tree/master/0283-move-zeroes) |
+| [0435-non-overlapping-intervals](https://github.com/amanPANDEY407/striver-a2z_dsa/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/amanPANDEY407/striver-a2z_dsa/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/amanPANDEY407/striver-a2z_dsa/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/amanPANDEY407/striver-a2z_dsa/tree/master/0496-next-greater-element-i) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/amanPANDEY407/striver-a2z_dsa/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/amanPANDEY407/striver-a2z_dsa/tree/master/0055-jump-game) |
 | [0402-remove-k-digits](https://github.com/amanPANDEY407/striver-a2z_dsa/tree/master/0402-remove-k-digits) |
+| [0435-non-overlapping-intervals](https://github.com/amanPANDEY407/striver-a2z_dsa/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/amanPANDEY407/striver-a2z_dsa/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/amanPANDEY407/striver-a2z_dsa/tree/master/0860-lemonade-change) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/amanPANDEY407/striver-a2z_dsa/tree/master/1838-frequency-of-the-most-frequent-element) |
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/amanPANDEY407/striver-a2z_dsa/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/amanPANDEY407/striver-a2z_dsa/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/amanPANDEY407/striver-a2z_dsa/tree/master/0268-missing-number) |
+| [0435-non-overlapping-intervals](https://github.com/amanPANDEY407/striver-a2z_dsa/tree/master/0435-non-overlapping-intervals) |
 | [0451-sort-characters-by-frequency](https://github.com/amanPANDEY407/striver-a2z_dsa/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/amanPANDEY407/striver-a2z_dsa/tree/master/0455-assign-cookies) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/amanPANDEY407/striver-a2z_dsa/tree/master/1838-frequency-of-the-most-frequent-element) |
@@ -196,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/amanPANDEY407/striver-a2z_dsa/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/amanPANDEY407/striver-a2z_dsa/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/amanPANDEY407/striver-a2z_dsa/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0435-non-overlapping-intervals](https://github.com/amanPANDEY407/striver-a2z_dsa/tree/master/0435-non-overlapping-intervals) |
 | [0907-sum-of-subarray-minimums](https://github.com/amanPANDEY407/striver-a2z_dsa/tree/master/0907-sum-of-subarray-minimums) |
 ## Divide and Conquer
 |  |
