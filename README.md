@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2104-sum-of-subarray-ranges](https://github.com/amanPANDEY407/striver-a2z_dsa/tree/master/2104-sum-of-subarray-ranges) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/amanPANDEY407/striver-a2z_dsa/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/amanPANDEY407/striver-a2z_dsa/tree/master/2150-find-all-lonely-numbers-in-the-array) |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/amanPANDEY407/striver-a2z_dsa/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 ## Binary Search
 |  |
 | ------- |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-lemonade-change](https://github.com/amanPANDEY407/striver-a2z_dsa/tree/master/0860-lemonade-change) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/amanPANDEY407/striver-a2z_dsa/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1903-largest-odd-number-in-string](https://github.com/amanPANDEY407/striver-a2z_dsa/tree/master/1903-largest-odd-number-in-string) |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/amanPANDEY407/striver-a2z_dsa/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 ## Sliding Window
 |  |
 | ------- |
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/amanPANDEY407/striver-a2z_dsa/tree/master/0455-assign-cookies) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/amanPANDEY407/striver-a2z_dsa/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2165-smallest-value-of-the-rearranged-number](https://github.com/amanPANDEY407/striver-a2z_dsa/tree/master/2165-smallest-value-of-the-rearranged-number) |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/amanPANDEY407/striver-a2z_dsa/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -113,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/amanPANDEY407/striver-a2z_dsa/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/amanPANDEY407/striver-a2z_dsa/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/amanPANDEY407/striver-a2z_dsa/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/amanPANDEY407/striver-a2z_dsa/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 ## Hash Table
 |  |
 | ------- |
@@ -173,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0876-middle-of-the-linked-list](https://github.com/amanPANDEY407/striver-a2z_dsa/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/amanPANDEY407/striver-a2z_dsa/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/amanPANDEY407/striver-a2z_dsa/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/amanPANDEY407/striver-a2z_dsa/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 ## Math
 |  |
 | ------- |
@@ -285,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/amanPANDEY407/striver-a2z_dsa/tree/master/0239-sliding-window-maximum) |
 | [0451-sort-characters-by-frequency](https://github.com/amanPANDEY407/striver-a2z_dsa/tree/master/0451-sort-characters-by-frequency) |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/amanPANDEY407/striver-a2z_dsa/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 ## Bucket Sort
 |  |
 | ------- |
