@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0057-insert-interval](https://github.com/amanPANDEY407/striver-a2z_dsa/tree/master/0057-insert-interval) |
 | [0073-set-matrix-zeroes](https://github.com/amanPANDEY407/striver-a2z_dsa/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/amanPANDEY407/striver-a2z_dsa/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/amanPANDEY407/striver-a2z_dsa/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/amanPANDEY407/striver-a2z_dsa/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/amanPANDEY407/striver-a2z_dsa/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/amanPANDEY407/striver-a2z_dsa/tree/master/0088-merge-sorted-array) |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/amanPANDEY407/striver-a2z_dsa/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/amanPANDEY407/striver-a2z_dsa/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/amanPANDEY407/striver-a2z_dsa/tree/master/0268-missing-number) |
 ## Dynamic Programming
@@ -384,4 +386,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/amanPANDEY407/striver-a2z_dsa/tree/master/0455-assign-cookies) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/amanPANDEY407/striver-a2z_dsa/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
