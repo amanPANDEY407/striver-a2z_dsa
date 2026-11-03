@@ -219,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/amanPANDEY407/striver-a2z_dsa/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/amanPANDEY407/striver-a2z_dsa/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/amanPANDEY407/striver-a2z_dsa/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0131-palindrome-partitioning](https://github.com/amanPANDEY407/striver-a2z_dsa/tree/master/0131-palindrome-partitioning) |
 | [0435-non-overlapping-intervals](https://github.com/amanPANDEY407/striver-a2z_dsa/tree/master/0435-non-overlapping-intervals) |
 | [0678-valid-parenthesis-string](https://github.com/amanPANDEY407/striver-a2z_dsa/tree/master/0678-valid-parenthesis-string) |
 | [0907-sum-of-subarray-minimums](https://github.com/amanPANDEY407/striver-a2z_dsa/tree/master/0907-sum-of-subarray-minimums) |
@@ -256,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/amanPANDEY407/striver-a2z_dsa/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/amanPANDEY407/striver-a2z_dsa/tree/master/0022-generate-parentheses) |
 | [0076-minimum-window-substring](https://github.com/amanPANDEY407/striver-a2z_dsa/tree/master/0076-minimum-window-substring) |
+| [0131-palindrome-partitioning](https://github.com/amanPANDEY407/striver-a2z_dsa/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/amanPANDEY407/striver-a2z_dsa/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/amanPANDEY407/striver-a2z_dsa/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/amanPANDEY407/striver-a2z_dsa/tree/master/0242-valid-anagram) |
@@ -407,5 +409,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/amanPANDEY407/striver-a2z_dsa/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/amanPANDEY407/striver-a2z_dsa/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/amanPANDEY407/striver-a2z_dsa/tree/master/0090-subsets-ii) |
+| [0131-palindrome-partitioning](https://github.com/amanPANDEY407/striver-a2z_dsa/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/amanPANDEY407/striver-a2z_dsa/tree/master/0216-combination-sum-iii) |
 <!---LeetCode Topics End-->
