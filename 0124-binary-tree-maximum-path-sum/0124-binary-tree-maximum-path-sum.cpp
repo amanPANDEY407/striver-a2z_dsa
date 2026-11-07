@@ -22,9 +22,8 @@ private:
         int l = diameter(root->left, ans);
         int r = diameter(root->right, ans);
         ans = max(ans, l + r + root->val);
-        ans = max(ans, l + root->val);
-        ans = max(ans, r + root->val);
-        ans = max(ans, root->val);
-        return max(max(l + root->val, r + root->val), root->val );
+        int z = max(max(l + root->val, r + root->val), root->val );
+        ans = max(z, ans);
+        return z;
     }
 };
