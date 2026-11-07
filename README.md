@@ -221,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/amanPANDEY407/striver-a2z_dsa/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/amanPANDEY407/striver-a2z_dsa/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/amanPANDEY407/striver-a2z_dsa/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/amanPANDEY407/striver-a2z_dsa/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/amanPANDEY407/striver-a2z_dsa/tree/master/0131-palindrome-partitioning) |
 | [0435-non-overlapping-intervals](https://github.com/amanPANDEY407/striver-a2z_dsa/tree/master/0435-non-overlapping-intervals) |
 | [0678-valid-parenthesis-string](https://github.com/amanPANDEY407/striver-a2z_dsa/tree/master/0678-valid-parenthesis-string) |
@@ -419,6 +420,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/amanPANDEY407/striver-a2z_dsa/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/amanPANDEY407/striver-a2z_dsa/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/amanPANDEY407/striver-a2z_dsa/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/amanPANDEY407/striver-a2z_dsa/tree/master/0145-binary-tree-postorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/amanPANDEY407/striver-a2z_dsa/tree/master/0543-diameter-of-binary-tree) |
@@ -426,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/amanPANDEY407/striver-a2z_dsa/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/amanPANDEY407/striver-a2z_dsa/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/amanPANDEY407/striver-a2z_dsa/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/amanPANDEY407/striver-a2z_dsa/tree/master/0145-binary-tree-postorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/amanPANDEY407/striver-a2z_dsa/tree/master/0543-diameter-of-binary-tree) |
@@ -433,6 +436,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/amanPANDEY407/striver-a2z_dsa/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/amanPANDEY407/striver-a2z_dsa/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/amanPANDEY407/striver-a2z_dsa/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/amanPANDEY407/striver-a2z_dsa/tree/master/0145-binary-tree-postorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/amanPANDEY407/striver-a2z_dsa/tree/master/0543-diameter-of-binary-tree) |
@@ -443,5 +447,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## DP on Trees
 |  |
 | ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/amanPANDEY407/striver-a2z_dsa/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/amanPANDEY407/striver-a2z_dsa/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
